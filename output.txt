@@ -1,6 +1,0 @@
-***************** REQUESTED AUTOMATION SCRIPT ***************** 
-- Commands executed: 
----> page.goto('https://google.com.br') 
-
- Error executing script 
-		Error: net::ERR_TUNNEL_CONNECTION_FAILED at https://google.com.br
